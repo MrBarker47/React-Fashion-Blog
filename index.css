@@ -1,0 +1,27 @@
+html {
+    border: 5px lightgray solid;
+}
+
+body {
+    min-height: 100%;
+    font-family: sans-serif;
+    max-width: 1000px;
+
+}
+
+header{
+ padding: 1rem 2rem;
+}
+
+main {
+ padding: 1rem 2rem;
+}
+
+footer {
+  padding: 1rem 2rem;
+}
+
+/* elements */
+h1 {
+    color: tomato;
+}
